@@ -19,3 +19,6 @@ I use a restrained palette to keep the content professional and legible: a soft 
 ### Figma Design:
 
 https://www.figma.com/design/NPMP16oqNGk6tsXFHvOAxe/CV-JORDI?node-id=0-1&t=Otn2JVR3YH6AJYWB-1
+
+### Public Url
+https://jordimunoz05.github.io/JordiMunoz_u1994921/
